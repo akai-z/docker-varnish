@@ -1,3 +1,6 @@
 [submodule "alpine"]
 	path = alpine
 	url = https://github.com/akai-z/docker-alpine-varnish.git
+[submodule "debian"]
+	path = debian
+	url = https://github.com/akai-z/docker-debian-varnish.git
