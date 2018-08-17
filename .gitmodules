@@ -1,0 +1,3 @@
+[submodule "alpine"]
+	path = alpine
+	url = https://github.com/akai-z/docker-alpine-varnish.git
