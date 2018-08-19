@@ -60,7 +60,7 @@ https://github.com/varnishcache/varnish-cache
 
 Run in `detached mode`:
 ```
-docker run -d aka1/docker-varnish:alpine
+docker run -d aka1/docker-varnish:<LINUX_DISTRIBUTION_NAME>
 ```
 
 For more details, check the following link:  
