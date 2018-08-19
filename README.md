@@ -110,7 +110,7 @@ you could do that by adding them to `docker run` command.
 
 For example:
 ```
-docker run -d aka1/docker-varnish:alpine \
+docker run -d aka1/docker-varnish:<LINUX_DISTRIBUTION_NAME> \
   -b localhost:8080
 ```
 
