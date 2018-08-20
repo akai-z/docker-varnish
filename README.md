@@ -76,7 +76,7 @@ docker-compose up -d
 For more details, check the following link:  
 https://docs.docker.com/compose/reference/up/
 
-For a quick start, check the file [docker-compose.yml.dist](docker-compose.yml.dist).
+For a quick start, check the file [docker-compose.yml.dist](https://github.com/akai-z/docker-varnish/blob/master/docker-compose.yml.dist).
 
 ## Building a Docker image
 
@@ -130,4 +130,4 @@ https://varnish-cache.org/docs/trunk/reference/varnishd.html
 
 ## License
 
-[GNU General Public License version 2](LICENSE)
+[GNU General Public License version 2](https://github.com/akai-z/docker-varnish/blob/master/LICENSE)
