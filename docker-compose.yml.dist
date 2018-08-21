@@ -1,7 +1,7 @@
 version: "3.7"
 services:
   varnish:
-    image: aka1/docker-varnish:<LINUX_DISTRIBUTION_NAME>
+    image: aka1/docker-varnish:<DOCKER_TAG_NAME>
     volumes:
       - <PATH_TO_USER_CUSTOM_VCL_FILE>:/etc/varnish/default.vcl.template
     environment:
