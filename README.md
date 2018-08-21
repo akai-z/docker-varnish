@@ -1,7 +1,7 @@
 ## Supported tags and respective `Dockerfile` links
 
-* [`6.0.0` (*alpine/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/master/context/Dockerfile)
-* [`6.0.0` (*debian/Dockerfile*)](https://github.com/akai-z/docker-debian-varnish/blob/master/context/Dockerfile)
+* [`alpine` (*alpine/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/master/context/Dockerfile)
+* [`debian` (*debian/Dockerfile*)](https://github.com/akai-z/docker-debian-varnish/blob/master/context/Dockerfile)
 
 ## What is Varnish Cache?
 
