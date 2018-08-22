@@ -103,7 +103,8 @@ the `-v` or the `--volume` flag in `docker run` command.
 
 Make sure that the file name in the second field of flag `-v`  
 (where the file is mounted in the container),  
-is named `default.vcl.template`.
+is named `default.vcl.template`.  
+And its full path is: `/etc/varnish/default.vcl.template`.
 
 That would allow environment variables (if used)  
 to be substituted with real values.
