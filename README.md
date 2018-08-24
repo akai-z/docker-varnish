@@ -124,7 +124,7 @@ you could do that by adding them to `docker run` command.
 For example:
 ```
 docker run -d aka1/docker-varnish:<DOCKER_TAG_NAME> \
-  -b localhost:8080
+  -b 127.0.0.1:8080
 ```
 
 However, you have to keep in mind that, if you opt to use this approach,  
