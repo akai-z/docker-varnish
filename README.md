@@ -63,7 +63,7 @@ https://github.com/varnishcache/varnish-cache
 
 ## Starting a Docker container
 
-Run in `detached mode`:
+Run in `detached` mode:
 ```
 docker run -d aka1/docker-varnish:<DOCKER_TAG_NAME>
 ```
