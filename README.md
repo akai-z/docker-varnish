@@ -73,7 +73,7 @@ https://docs.docker.com/engine/reference/commandline/run/
 
 ## Starting a Docker container with Docker Compose
 
-Run in `detached mode`:
+Run in `detached` mode:
 ```
 docker-compose up -d
 ```
