@@ -119,8 +119,8 @@ docker run \
 
 ## Passing arguments to `varnishd`
 
-If you want to pass arguments to `varnishd`,  
-you could do that by setting them in `docker run` command.
+It is possible to pass arguments to `varnishd`,  
+by setting them in `docker run` command.
 
 For example:
 ```
@@ -128,12 +128,11 @@ docker run -d aka1/docker-varnish:<DOCKER_TAG_NAME> \
   -b 127.0.0.1:8080
 ```
 
-However, you have to keep in mind that, if you opt to use this approach,  
+However, by using this approach,  
 all the preset/default parameters that are already set in the image  
 will not be included.
 
-And you have to make sure that  
-all `varnishd` required parameters are set.
+And all `varnishd` required parameters must be set, as a result.
 
 For more details, check the following link:  
 https://varnish-cache.org/docs/trunk/reference/varnishd.html
