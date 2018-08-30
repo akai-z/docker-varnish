@@ -117,10 +117,10 @@ docker run \
   -d aka1/docker-varnish:<DOCKER_TAG_NAME>
 ```
 
-## Passing parameters to `varnishd`
+## Passing arguments to `varnishd`
 
-If you want to pass parameters to `varnishd`,  
-you could do that by adding them to `docker run` command.
+If you want to pass arguments to `varnishd`,  
+you could do that by setting them in `docker run` command.
 
 For example:
 ```
@@ -129,11 +129,11 @@ docker run -d aka1/docker-varnish:<DOCKER_TAG_NAME> \
 ```
 
 However, you have to keep in mind that, if you opt to use this approach,  
-all the preset/default parameters that are already used in the image  
+all the preset/default parameters that are already set in the image  
 will not be included.
 
 And you have to make sure that  
-all `varnishd` required parameters are added.
+all `varnishd` required parameters are set.
 
 For more details, check the following link:  
 https://varnish-cache.org/docs/trunk/reference/varnishd.html
