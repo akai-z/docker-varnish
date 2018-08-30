@@ -95,15 +95,16 @@ https://docs.docker.com/engine/reference/commandline/build/
 ## Using custom VCL file
 
 In most cases,  
-you should use your own custom VCL file with this Docker image.
+A custom VCL file should be used with this Docker image.  
+(Instead of using the default one provided by the image)
 
-You could do that by using  
+That could be done by using  
 the `-v` or the `--volume` flag in `docker run` command.  
 (The same applies to Docker Compose)
 
-Make sure that the file name in the second field of flag `-v`  
+The file name in the second field of flag `-v`  
 (where the file is mounted in the container),  
-is named `default.vcl.template`.  
+must be named `default.vcl.template`.  
 And its full path is: `/etc/varnish/default.vcl.template`.
 
 That would allow environment variables (if used)  
