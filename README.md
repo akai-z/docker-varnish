@@ -102,6 +102,9 @@ That could be done by using
 the `-v` or the `--volume` flag in `docker run` command.  
 (The same applies to Docker Compose)
 
+For more details, check the following link:  
+https://docs.docker.com/storage/volumes/
+
 The file name in the second field of flag `-v`  
 (where the file is mounted in the container),  
 must be named `default.vcl.template`.  
