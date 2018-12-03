@@ -1,5 +1,7 @@
 ## Supported tags and respective `Dockerfile` links
 
+* [`5.2.1-alpine, 5.2-alpine3.7, 5.2-alpine, 5-alpine` (*5.2/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/ecad10e7aa778c42fcc59a373706597e9c15e0c1/5.2/Dockerfile)
+* [`5.2.1-debian, 5.2-debian-stretch, 5.2-debian, 5-debian` (*5.2/Dockerfile*)](https://github.com/akai-z/docker-debian-varnish/blob/8a64d923b7b462815fff285802021263f22d3747/5.2/Dockerfile)
 * [`4.1.9-alpine, 4.1-alpine3.6, 4.1-alpine, 4-alpine` (*4.1/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/ecad10e7aa778c42fcc59a373706597e9c15e0c1/4.1/Dockerfile)
 
 ## What is Varnish Cache?
