@@ -1,8 +1,5 @@
 ## Supported tags and respective `Dockerfile` links
 
-* [`alpine` (*alpine/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/master/context/Dockerfile)
-* [`debian` (*debian/Dockerfile*)](https://github.com/akai-z/docker-debian-varnish/blob/master/context/Dockerfile)
-
 ## What is Varnish Cache?
 
 Varnish is an HTTP accelerator designed for content-heavy dynamic web sites as well as APIs.
