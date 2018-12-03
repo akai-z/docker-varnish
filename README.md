@@ -3,11 +3,6 @@
 * [`alpine` (*alpine/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/master/context/Dockerfile)
 * [`debian` (*debian/Dockerfile*)](https://github.com/akai-z/docker-debian-varnish/blob/master/context/Dockerfile)
 
-## Versions
-
-* Alpine: `6.0.0`
-* Debian: `6.0.0`
-
 ## What is Varnish Cache?
 
 Varnish is an HTTP accelerator designed for content-heavy dynamic web sites as well as APIs.
