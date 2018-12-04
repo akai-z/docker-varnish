@@ -65,7 +65,7 @@ https://github.com/varnishcache/varnish-cache
 
 Run in `detached` mode:
 ```
-docker run -d aka1/docker-varnish:<DOCKER_TAG_NAME>
+docker run -d aka1/varnish:<DOCKER_TAG_NAME>
 ```
 
 For more details, check the following link:  
