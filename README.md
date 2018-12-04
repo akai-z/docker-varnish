@@ -117,7 +117,7 @@ Example:
 ```
 docker run \
   -v <PATH_TO_VCL_FILE>:/etc/varnish/default.vcl.template \
-  -d aka1/docker-varnish:<DOCKER_TAG_NAME>
+  -d aka1/varnish:<DOCKER_TAG_NAME>
 ```
 
 ## Passing arguments to `varnishd`
