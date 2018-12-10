@@ -96,13 +96,13 @@ https://docs.docker.com/engine/reference/commandline/build/
 
 In most cases,  
 A custom VCL file should be used with this Docker image.  
-(Instead of using the default one provided by the image)
+(Instead of using the default one provided by the image.)
 
 That could be done by using  
 the `-v` or the `--volume` flag in `docker run` command.  
-(The same applies to Docker Compose)
+(The same applies to Docker Compose.)
 
-For more details, check the following link:  
+For more details about volumes in Docker, check the following link:  
 https://docs.docker.com/storage/volumes/
 
 The file name in the second field of flag `-v`  
