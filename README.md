@@ -116,8 +116,8 @@ to be substituted with real values.
 Example:
 ```
 docker run \
-  -v <PATH_TO_VCL_FILE>:/etc/varnish/default.vcl.template \
-  -d aka1/varnish:<DOCKER_TAG_NAME>
+  -v <path_to_vcl_file>:/etc/varnish/default.vcl.template \
+  -d aka1/varnish:<docker_tag_name>
 ```
 
 ## Passing arguments to `varnishd`
