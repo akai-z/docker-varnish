@@ -86,7 +86,7 @@ For a quick start, check the file [docker-compose.yml.dist](https://github.com/a
 ## Building a Docker image
 
 ```
-docker build -t <image_name> <path_or_url_to_dockerfile>
+docker build -t <image_name> <dockerfile_path_or_url>
 ```
 
 For more details, check the following link:  
