@@ -1,9 +1,9 @@
 version: "3.7"
 services:
   varnish:
-    image: aka1/varnish:<DOCKER_TAG_NAME>
+    image: aka1/varnish:<docker_tag_name>
     volumes:
-      - <PATH_TO_USER_CUSTOM_VCL_FILE>:/etc/varnish/default.vcl.template
+      - <path_to_user_custom_vcl_file>:/etc/varnish/default.vcl.template
     environment:
       - LISTEN_PORT=8080
       - MANAGEMENT_INTERFACE_PORT=6082
