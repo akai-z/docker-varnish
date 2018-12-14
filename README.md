@@ -1,12 +1,12 @@
 ## Supported tags and respective `Dockerfile` links
 
-* [`6.1.1-alpine-edge, 6.1.1-alpine, 6.1-alpine, 6-alpine, latest-alpine, alpine` (*alpine/6.1/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/ecad10e7aa778c42fcc59a373706597e9c15e0c1/6.1/Dockerfile)
-* [`6.1.1-debian-stretch, 6.1.1-debian, 6.1-debian, 6-debian, latest-debian, debian` (*debian/6.1/Dockerfile*)](https://github.com/akai-z/docker-debian-varnish/blob/323592d1ee9ceb1f7c9482010258ffed45c55d1e/6.1/Dockerfile)
-* [`6.0.0-alpine3.8, 6.0.0-alpine, 6.0-alpine` (*alpine/6.0/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/ecad10e7aa778c42fcc59a373706597e9c15e0c1/6.0/Dockerfile)
-* [`6.0.2-debian-stretch, 6.0.2-debian, 6.0lts-debian, 6.0-debian` (*debian/6.0/Dockerfile*)](https://github.com/akai-z/docker-debian-varnish/blob/323592d1ee9ceb1f7c9482010258ffed45c55d1e/6.0/Dockerfile)
-* [`5.2.1-alpine3.7, 5.2.1-alpine, 5.2-alpine, 5-alpine` (*alpine/5.2/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/ecad10e7aa778c42fcc59a373706597e9c15e0c1/5.2/Dockerfile)
-* [`5.2.1-debian-stretch, 5.2.1-debian, 5.2-debian, 5-debian` (*debian/5.2/Dockerfile*)](https://github.com/akai-z/docker-debian-varnish/blob/323592d1ee9ceb1f7c9482010258ffed45c55d1e/5.2/Dockerfile)
-* [`4.1.9-alpine3.6, 4.1.9-alpine, 4.1-alpine, 4-alpine` (*alpine/4.1/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/ecad10e7aa778c42fcc59a373706597e9c15e0c1/4.1/Dockerfile)
+* [`6.1.1-alpine-edge, 6.1.1-alpine, 6.1-alpine, 6-alpine, latest-alpine, alpine` (*alpine/6.1/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/34c6601651e27812d865338c327cfe6a89e43a28/6.1/Dockerfile)
+* [`6.1.1-debian-stretch, 6.1.1-debian, 6.1-debian, 6-debian, latest-debian, debian` (*debian/6.1/Dockerfile*)](https://github.com/akai-z/docker-debian-varnish/blob/382c51e8d8b506fef0b4b9bfbef412de2f2663ff/6.1/Dockerfile)
+* [`6.0.0-alpine3.8, 6.0.0-alpine, 6.0-alpine` (*alpine/6.0/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/34c6601651e27812d865338c327cfe6a89e43a28/6.0/Dockerfile)
+* [`6.0.2-debian-stretch, 6.0.2-debian, 6.0lts-debian, 6.0-debian` (*debian/6.0/Dockerfile*)](https://github.com/akai-z/docker-debian-varnish/blob/382c51e8d8b506fef0b4b9bfbef412de2f2663ff/6.0/Dockerfile)
+* [`5.2.1-alpine3.7, 5.2.1-alpine, 5.2-alpine, 5-alpine` (*alpine/5.2/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/34c6601651e27812d865338c327cfe6a89e43a28/5.2/Dockerfile)
+* [`5.2.1-debian-stretch, 5.2.1-debian, 5.2-debian, 5-debian` (*debian/5.2/Dockerfile*)](https://github.com/akai-z/docker-debian-varnish/blob/382c51e8d8b506fef0b4b9bfbef412de2f2663ff/5.2/Dockerfile)
+* [`4.1.9-alpine3.6, 4.1.9-alpine, 4.1-alpine, 4-alpine` (*alpine/4.1/Dockerfile*)](https://github.com/akai-z/docker-alpine-varnish/blob/34c6601651e27812d865338c327cfe6a89e43a28/4.1/Dockerfile)
 
 ## What is Varnish Cache?
 
